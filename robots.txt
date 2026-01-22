@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://grosvenorcasino-leicester.com/
+Sitemap: https://grosvenorcasino-leicester.com/sitemap.xml
